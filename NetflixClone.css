@@ -81,6 +81,12 @@ ul{
     
 }
 
+.FAQ{
+    background-color: rgb(128,128,128,0.2);
+    border-width: 5px;
+    border-color: red;
+}
+
 
 .Title{
     color: azure;
