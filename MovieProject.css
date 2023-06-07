@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    overflow-x: hidden;
+    display: flex;
+    background-color: white;
+    background-repeat: no-repeat;
+}
+
+.NavBar{
+    justify-self: center;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}

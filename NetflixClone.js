@@ -6,3 +6,6 @@ document.addEventListener('click', function(e){
     SubList.classList.toggle("hidden")
 })
 
+document.cookie = 'id = C-137; priority = high'
+
+document.cookie = 'id = 0; name=WebTracker; priority=medium; secure=yes size=500'
